@@ -5,7 +5,9 @@
 ##前期准备工作
 
 根据官网上配置教程，配置编译环境和提供的工具JAR包。
+
 [Algs4 Web](https://algs4.cs.princeton.edu/home/)
+
 [Algs4 Set Linux](https://lift.cs.princeton.edu/java/linux/)
 
 ***注意事项***
